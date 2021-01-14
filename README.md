@@ -1,5 +1,9 @@
 # Smart-Kitchen-containers---IOT
 
+
+READ Smart Kitchen Containers - SYNOPSIS first for better understanding.
+
+
 Ever wondered how technology can help us transform our ordinary kitchen containers
 into smart ones? Our research paper is mainly based on the above stated question. One of the most apt use cases in a kitchen is the constant storage and replenishment of
 groceries. Now imagine, if the most common accessory in any kitchen, i.e., a
@@ -24,4 +28,4 @@ project demonstration video link :  https://drive.google.com/file/d/1_muMySQ8rYt
 
 
 
-note --> smart kitchen containers.pdf.pdf is the research paper published in Mat Journals
+note --> smart kitchen containers.pdf is the research paper published in Mat Journals
