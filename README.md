@@ -19,4 +19,4 @@ part of Home Automation.
 Research Paper Link:
 http://matjournals.in/index.php/JoAAT/article/view/3987
 
-note --> smart kitchen containers.pdf is the research paper published in Mat Journals
+note --> smart kitchen containers.pdf.pdf is the research paper published in Mat Journals
